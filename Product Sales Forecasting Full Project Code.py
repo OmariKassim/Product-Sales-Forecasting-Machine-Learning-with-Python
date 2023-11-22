@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # ARIMA Weekly Sale Forecasting
+# Weekly Sales Forecasting with Seasonal ARIMA (in Python)
 
-# Importing relevant python libraries
+# Importing relevant Python libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
